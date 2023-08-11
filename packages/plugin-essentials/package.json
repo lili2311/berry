@@ -10,7 +10,7 @@
     "inquirer": "^6.2.0",
     "semver": "^5.6.0",
     "treeify": "^1.1.0",
-    "yup": "^0.27.0"
+    "yup": "^0.30.0"
   },
   "peerDependencies": {
     "@yarnpkg/cli": "^2.0.0-rc.28",
