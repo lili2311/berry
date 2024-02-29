@@ -5,7 +5,7 @@
   "sideEffects": false,
   "dependencies": {
     "@yarnpkg/libzip": "workspace:^2.0.0-rc.9",
-    "tmp": "^0.1.0"
+    "tmp": "^0.2.2"
   },
   "scripts": {
     "postpack": "rm -rf lib",
