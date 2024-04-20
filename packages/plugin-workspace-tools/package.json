@@ -6,7 +6,7 @@
     "@yarnpkg/fslib": "workspace:^2.0.0-rc.15",
     "clipanion": "^2.1.5",
     "p-limit": "^2.2.0",
-    "yup": "^0.27.0"
+    "yup": "^0.28.2"
   },
   "peerDependencies": {
     "@yarnpkg/cli": "^2.0.0-rc.28",
