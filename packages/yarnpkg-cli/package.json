@@ -28,7 +28,7 @@
     "promise.prototype.finally": "^3.1.1",
     "semver": "^5.6.0",
     "tmp": "^0.1.0",
-    "yup": "^0.27.0"
+    "yup": "^0.28.2"
   },
   "devDependencies": {
     "@types/promise.prototype.finally": "^2.0.3",
