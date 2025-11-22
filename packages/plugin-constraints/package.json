@@ -9,7 +9,7 @@
   "dependencies": {
     "@yarnpkg/fslib": "workspace:^2.0.0-rc.15",
     "clipanion": "^2.1.5",
-    "inquirer": "^6.2.0",
+    "inquirer": "^9.0.0",
     "lodash": "^4.17.15",
     "node-emoji": "^1.8.1",
     "tau-prolog": "^0.2.66"
